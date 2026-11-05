@@ -1,0 +1,22 @@
+# Keil MDK 编译产物（每份约 20MB，不入库）
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.map
+*.lst
+*.dep
+*.bak
+*.uvguix.*
+*.uvguix
+*.scvd
+*.build_log.htm
+
+# 系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
